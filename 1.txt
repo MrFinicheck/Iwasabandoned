@@ -1,2 +1,1 @@
-My fix in the 1.txt and fixes of another user
-
+fix in the 1.txt
